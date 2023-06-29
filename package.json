@@ -1,5 +1,5 @@
 {
-  "name": "ssr-react",
+  "name": "ssr",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,22 +8,11 @@
     "build": "next build",
     "start": "next start"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/TravisH-bot/SSR-React.git"
-  },
-  "author": "Travis Hackbarth",
+  "author": "Emmanuel Henri",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/TravisH-bot/SSR-React/issues"
-  },
-  "homepage": "https://github.com/TravisH-bot/SSR-React#readme",
   "dependencies": {
-    "next": "^13.4.7",
-    "next-redux-wrapper": "^8.1.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-redux": "^8.1.1",
-    "redux": "^4.2.1"
+    "next": "^10.0.6",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
   }
 }
